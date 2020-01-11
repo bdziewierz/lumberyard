@@ -124,9 +124,13 @@
 # Ignore ico files from Lumberyard folders but preserve ico files in project folders
 /dev/Code/**/*.ico
 /dev/CloudGemSamples/**/*.ico
+/dev/CloudGemDefectReportSample/**/*.ico
 /dev/Tools/**/*.ico
 
 # Misc ignore files
 /dev/SetupAssistantUserPreferences.ini
 /dev/_WAF_/environment.json
 /SetupAssistant.bat
+/dev/CrashUploaderLog.txt
+/dev/Editor/editoreventlog.xml
+/dev/Editor/editorlayout.xml
